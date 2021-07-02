@@ -7,11 +7,11 @@ html {
   box-sizing: inherit;
 }
 
-*: before {
+*:before {
   box-sizing: inherit;
 }
 
-*: after {
+*:after {
   box-sizing: inherit;
 }
 
