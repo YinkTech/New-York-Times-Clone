@@ -20,7 +20,9 @@ body {
   margin: 0;
   background: #fff;
 }
-
+h6 {
+  display: none;
+}
 .container {
   color: rgb(53, 52, 52);
   padding-left: 20px;
@@ -191,8 +193,8 @@ body {
 }
 
 .bodyfill {
-	display: flex;
-	padding: 0 150px 0 300px;
+  display: flex;
+  padding: 0 150px 0 300px;
 }
 
 .center-article {
@@ -583,16 +585,16 @@ body {
   margin-top: -37px;
 }
 
-.second-newsletter-body:hover {
-  box-shadow: 1px 1px 1px 1.1px rgb(226, 226, 226);
-}
-
 .second-newsletter-body {
   float: right;
   display: inline-flex;
   width: 240px;
   margin-left: 14px;
   transition: all 0.1s ease-in-out;
+}
+
+.second-newsletter-body:hover {
+  box-shadow: 1px 1px 1px 1.1px rgb(226, 226, 226);
 }
 
 .second-newsletter-body:hover .news-icon-after {
@@ -790,7 +792,6 @@ body {
   text-transform: capitalize;
   font-weight: 500;
   line-height: 16px;
-  margin-bottom: 5px;
   font-family: nyt-franklin, helvetica, arial, sans-serif;
   font-size: 14px;
   letter-spacing: 1px;
@@ -809,7 +810,6 @@ body {
   text-transform: capitalize;
   font-weight: 500;
   line-height: 16px;
-  margin-bottom: 5px;
   font-family: nyt-franklin, helvetica, arial, sans-serif;
   font-size: 14px;
   padding: 3px;
@@ -850,6 +850,7 @@ body {
   width: 140px;
   margin-left: 40px;
 }
+
 .Sixth-line {
   width: 200px;
   margin-left: 20px;
@@ -865,7 +866,6 @@ body {
   font-family: nyt-franklin, helvetica, arial, sans-serif;
   height: 35px;
   line-height: 15px;
-  margin: 0px;
   text-transform: uppercase;
 }
 
@@ -881,7 +881,7 @@ body {
   margin-left: 35px;
   max-width: 100%;
   text-decoration: none;
-  }
+}
 
 .leading-text-link {
   text-decoration: none;
