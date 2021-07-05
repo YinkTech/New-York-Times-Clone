@@ -300,8 +300,8 @@ body {
 }
 
 .second-section {
-  max-width: 100%;
-  align-self: center;
+	max-width: 100%;
+	align-self: center;
 	padding-left: 320px;
 	padding-right: 400px;
 	padding-bottom: 50px;
@@ -331,8 +331,8 @@ body {
 	margin-left: -150px;
 	height: 700px;
 	font-size: 14px;
-  font-weight: 300;
-  line-height: 17px;
+	font-weight: 300;
+	line-height: 17px;
 	display: block;
 	margin-bottom: 40px;
 }
@@ -415,7 +415,7 @@ body {
 	margin-left: -60px;
 }
 
-.iframe-object{
+.iframe-object {
 	width: 100%;
 	height: 300px;
 }  
