@@ -284,7 +284,7 @@ body {
   text-align: center;
 }
 .social-span {
-  margin-left: 150px;
+  margin-left: 110px;
 }
 
 .social-span-links {
@@ -330,6 +330,94 @@ body {
   font-family: nyt-imperial, georgia, 'times new roman', times, serif;
   font-size: 1.125rem;
   line-height: 1.5625rem;
+}
+
+.the-thory-of-infliation {
+	width: 1000px;
+	margin-left: -150px;
+	height: 700px;
+	font-size: 14px;
+  font-weight: 300;
+  line-height: 17px;
+	display: block;
+	color: #666;
+}
+
+.the-theory-of-infliation-header {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.the-theory-of-infliation-image {
+	background: url("inflation-im.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.the-theory-of-infliation-disc1 {
+	display: block;
+	width: 220px;
+	padding-top: 140px;
+}
+
+.the-theory-of-infliation-disc2 {
+	width: 220px;
+	padding-top: 140px;
+	margin-left: 30px;
+}
+
+.the-theory-of-infliation-disc3 {
+	width: 235px;
+	padding-top: 140px;
+	margin-left: 35px;
+}
+
+.the-theory-of-infliation-disc4 {
+	width: 235px;
+	padding-top: 140px;
+	margin-left: 25px;
+}
+
+.the-theory-of-infliation-disc5 {
+	width: 220px;
+	padding-top: 90px;
+}
+
+.the-theory-of-infliation-disc6 {
+	width: 230px;
+	padding-top: 90px;
+	margin-left: 30px;
+}
+
+.the-theory-of-infliation-disc7 {
+	width: 220px;
+	padding-top: 90px;
+	margin-left: 30px;
+}
+
+.the-theory-of-infliation-disc8 {
+	width: 220px;
+	padding-top: 90px;
+	margin-left: 30px;
+}
+
+.the-theory-of-infliation-disc-heading {
+	font-weight: bold;
+	color: #000;
+}
+
+.last-theory-of-infliation-line {
+	width: 60px;
+	height: 1px;
+	margin-bottom: 13px;
+	background-color: #000;
+	
+}
+.last-theory-text {
+	margin-left: -60px;
 }
 
 .second-img {
