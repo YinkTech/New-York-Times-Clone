@@ -20,9 +20,11 @@ body {
   margin: 0;
   background: #fff;
 }
+
 h6 {
   display: none;
 }
+
 .container {
   color: rgb(53, 52, 52);
   padding-left: 20px;
@@ -198,7 +200,7 @@ h6 {
 }
 
 .center-article {
-	width: 650px;
+  width: 650px;
 }
 
 .right-article {
@@ -302,11 +304,11 @@ h6 {
 }
 
 .second-section {
-	max-width: 100%;
-	align-self: center;
-	padding-left: 320px;
-	padding-right: 400px;
-	padding-bottom: 50px;
+  max-width: 100%;
+  align-self: center;
+  padding-left: 320px;
+  padding-right: 400px;
+  padding-bottom: 50px;
 }
 
 .first-name {
@@ -329,97 +331,97 @@ h6 {
 }
 
 .the-thory-of-infliation {
-	width: 1001px;
-	margin-left: -150px;
-	height: 700px;
-	font-size: 14px;
-	font-weight: 300;
-	line-height: 17px;
-	display: block;
-	margin-bottom: 40px;
+  width: 1001px;
+  margin-left: -150px;
+  height: 700px;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 17px;
+  display: block;
+  margin-bottom: 40px;
 }
 
 .the-theory-of-infliation-header {
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .the-theory-of-infliation-image {
-	background: url("inflation-im.png");
-	background-size: contain;
-	background-repeat: no-repeat;
-	width: 100%;
-	height: 100%;
-	color: #666;
-	display: flex;
-	flex-wrap: wrap;
+  background: url("inflation-im.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  color: #666;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .the-theory-of-infliation-disc1 {
-	display: block;
-	width: 220px;
-	padding-top: 140px;
+  display: block;
+  width: 220px;
+  padding-top: 140px;
 }
 
 .the-theory-of-infliation-disc2 {
-	width: 220px;
-	padding-top: 140px;
-	margin-left: 30px;
+  width: 220px;
+  padding-top: 140px;
+  margin-left: 30px;
 }
 
 .the-theory-of-infliation-disc3 {
-	width: 235px;
-	padding-top: 140px;
-	margin-left: 35px;
+  width: 235px;
+  padding-top: 140px;
+  margin-left: 35px;
 }
 
 .the-theory-of-infliation-disc4 {
-	width: 235px;
-	padding-top: 140px;
-	margin-left: 25px;
+  width: 235px;
+  padding-top: 140px;
+  margin-left: 25px;
 }
 
 .the-theory-of-infliation-disc5 {
-	width: 220px;
-	padding-top: 90px;
+  width: 220px;
+  padding-top: 90px;
 }
 
 .the-theory-of-infliation-disc6 {
-	width: 230px;
-	padding-top: 90px;
-	margin-left: 30px;
+  width: 230px;
+  padding-top: 90px;
+  margin-left: 30px;
 }
 
 .the-theory-of-infliation-disc7 {
-	width: 220px;
-	padding-top: 90px;
-	margin-left: 30px;
+  width: 220px;
+  padding-top: 90px;
+  margin-left: 30px;
 }
 
 .the-theory-of-infliation-disc8 {
-	width: 220px;
-	padding-top: 90px;
-	margin-left: 30px;
+  width: 220px;
+  padding-top: 90px;
+  margin-left: 30px;
 }
 
 .the-theory-of-infliation-disc-heading {
-	font-weight: bold;
-	color: #000;
+  font-weight: bold;
+  color: #000;
 }
 
 .last-theory-of-infliation-line {
-	width: 60px;
-	height: 1px;
-	margin-bottom: 13px;
-	background-color: #000;
+  width: 60px;
+  height: 1px;
+  margin-bottom: 13px;
+  background-color: #000;
 }
 
 .last-theory-text {
-	margin-left: -60px;
+  margin-left: -60px;
 }
 
 .iframe-object {
-	width: 100%;
-	height: 300px;
+  width: 100%;
+  height: 300px;
 }
 
 .second-img {
