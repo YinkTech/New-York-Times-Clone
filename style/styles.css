@@ -7,11 +7,11 @@ html {
   box-sizing: inherit;
 }
 
-*:before {
+*::before {
   box-sizing: inherit;
 }
 
-*:after {
+*::after {
   box-sizing: inherit;
 }
 
@@ -20,6 +20,7 @@ body {
   margin: 0;
   background: #fff;
 }
+
 .container {
   color: rgb(53, 52, 52);
   padding: 20px;
@@ -33,6 +34,7 @@ body {
   margin-bottom: 20px;
   border-bottom: 1px solid #000;
 }
+
 .header {
   position: fixed;
   max-width: 100%;
@@ -60,17 +62,14 @@ body {
 }
 
 .hiteam5 {
+  border-radius: 5px;
+  display: inline-block;
+  margin: 0;
   flex: 1 1 100px;
 }
 
 .hiteam6 {
   flex: 1 1 40px;
-}
-
-.hiteam5 {
-  border-radius: 5px;
-  display: inline-block;
-  margin: 0;
 }
 
 .btn-alt {
